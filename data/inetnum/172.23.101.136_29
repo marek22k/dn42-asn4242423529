@@ -1,6 +1,7 @@
 inetnum:            172.23.101.136 - 172.23.101.143
 cidr:               172.23.101.136/29
 netname:            REFUGEE-NETWORK
+nserver:            ns1.pravda.dn42
 admin-c:            REFUGEE-DN42
 tech-c:             REFUGEE-DN42
 mnt-by:             REFUGEE-MNT
